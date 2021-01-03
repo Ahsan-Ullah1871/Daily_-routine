@@ -1,0 +1,81 @@
+/* font family
+font-family: 'Nunito', sans-serif;
+font-family: 'Rancho', cursive;
+font-family: 'Redressed', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Shadows Into Light', cursive; */
+body{
+    background-color: bisque;
+}
+
+
+header{
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Nunito', sans-serif;
+    
+
+}
+
+.head{
+    border: slategray 9px solid;
+    border-radius: 20px;
+   background-image: url(image1.jpg);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.head h3{
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+    display: inline;
+}
+ 
+.row{
+    margin-left: 12%;
+    
+}
+
+.colum{
+    background-color: coral;
+    
+    font-size: 25px;
+    font-family: serif;
+    border: crimson 4px solid;
+     
+    width: 40%;
+    margin-left: 10px;
+    display: inline-block;
+    margin-bottom: 60px;
+    text-align: center;
+    
+  
+}
+.day{
+    border: slategray 9px solid;
+    border-radius: 20px;
+    background-image: url(image2.jpg);
+    background-position: center;
+    text-align: center;
+    margin-bottom: 30px;
+    height: 100px;
+    
+     
+}
+.day h3{
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+    display: inline;
+}
+.note{
+    background-color: darkgray;
+    text-align: center;
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 35px;
+    color: rgba(15, 15, 15, 0.685);
+}
+
+
+
